@@ -1,0 +1,22 @@
+
+@media screen and(max-width:720px) {
+    .body{
+        background-color: red
+    }
+.social {
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        margin-top: 40px;
+    }
+.end1{
+    display: flex;
+    flex-direction: column;
+}
+.write{
+    display: flex;
+    justify-content: center;
+}
+
+
+}
